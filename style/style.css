@@ -142,6 +142,7 @@ body{
 
 .header_menu {
         justify-content: center;
+        width: auto;
     }
 
     .presentacion{
