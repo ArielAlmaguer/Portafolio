@@ -140,7 +140,7 @@ body{
         padding: 10%;
     }   
 
-.header_menu {
+    .header_menu {
         justify-content: center;
         width: auto;
     }
