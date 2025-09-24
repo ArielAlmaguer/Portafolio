@@ -28,7 +28,7 @@ body{
 
 .header_menu {
     display: flex;
-    gap: 80px;
+    gap: 15%;
     justify-content: left;
     align-items: center;
 }
